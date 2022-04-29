@@ -81,7 +81,6 @@ type Game struct {
 }
 
 func main() {
-
 	cookieList := readCookie()
 	if len(cookieList) == 0 {
 		if getCookie() {
