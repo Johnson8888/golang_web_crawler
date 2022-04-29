@@ -1,7 +1,7 @@
 <!--
  * @Author: Heisenberg
  * @Date: 2022-04-29 15:15:07
- * @LastEditTime: 2022-04-30 00:10:59
+ * @LastEditTime: 2022-04-30 00:30:57
 -->
 
 ![page](https://raw.githubusercontent.com/Johnson8888/freelancer_demo/main/web_crawler/page.png?token=GHSAT0AAAAAABMRCOJVZTA6STQ3L5MVOZMCYTMBZMQ)
@@ -14,3 +14,4 @@ And save data in [cvs files](https://github.com/Johnson8888/freelancer_demo/blob
 
 3. You also can run the main.go file to get the result.
 
+4. The image page of [result](https://github.com/Johnson8888/freelancer_demo/blob/main/web_crawler/page.png)
